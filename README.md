@@ -3,39 +3,39 @@ Pro Habit Tracker is a full-stack web application that helps users create, manag
 
 # Pro Habit Tracker
 
-## Overview
+ Overview
 
 Pro Habit Tracker is a web application designed to help users build and maintain productive habits. The platform allows users to create habits, track daily completion, monitor streaks, and visualize progress over time.
 
-## Problem Statement
+ Problem Statement
 
 Many individuals struggle to maintain consistency in their daily habits. Pro Habit Tracker addresses this challenge by providing a simple and effective way to monitor habit completion and encourage long-term discipline.
 
-## Objectives
+ Objectives
 
 * Track daily habits efficiently
 * Monitor progress and streaks
 * Improve consistency and productivity
 * Provide insightful habit analytics
 
-## Technologies Used
+ Technologies Used
 
-### Frontend
+ Frontend
 
 * HTML
 * CSS
 * JavaScript
 
-### Backend
+ Backend
 
 * Node.js
 * Express.js
 
-### Database
+ Database
 
 * MongoDB
 
-## Features
+ Features
 
 * User Authentication
 * Habit Creation and Management
@@ -44,13 +44,13 @@ Many individuals struggle to maintain consistency in their daily habits. Pro Hab
 * Dashboard Analytics
 * Responsive User Interface
 
-## Future Enhancements
+ Future Enhancements
 
 * Mobile Application
 * Habit Reminders
 * Social Sharing
 * AI-based Habit Suggestions
 
-## Author
+ Author
 
 Niranjan G.
